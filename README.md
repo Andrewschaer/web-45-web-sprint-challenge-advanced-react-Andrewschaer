@@ -27,11 +27,11 @@ You will also need to build the two tests in the `CheckoutForm.test.js` file and
 ## Instructions
 
 ### Task 1: Transfer Repo
-* Clone this repository.
-* Implement the project on your newly created <firstName-lastName> branch, committing changes regularly.
-* Push commits: git push origin <firstName-lastName>.
-* RUN npm install to install your dependencies.
-* RUN npm start to start your application.
+[X] Clone this repository.
+[X] Implement the project on your newly created <firstName-lastName> branch, committing changes regularly.
+[X] Push commits: git push origin <firstName-lastName>.
+[X] RUN npm install to install your dependencies.
+[X] RUN npm start to start your application.
  
 ### Task 3: Project Requirements
  Your finished project must include all of the following requirements.
